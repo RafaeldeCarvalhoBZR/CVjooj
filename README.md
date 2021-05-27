@@ -1,1 +1,1 @@
-This one i made on the first day learning html/css.
+This one i made on my first day learning HTML/css.
